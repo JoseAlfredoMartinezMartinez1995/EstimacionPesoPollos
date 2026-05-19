@@ -1,0 +1,44 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Pickle files
+# =========================
+*.pkl
+
+# =========================
+# Jupyter Notebook / JupyterLab
+# =========================
+.ipynb_checkpoints/
+.jupyter/
+.jupyterlab-workspaces/
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# VSCode / IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Custom folders
+# =========================
+Videos01/
+Granja/
+Fotogramas/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
